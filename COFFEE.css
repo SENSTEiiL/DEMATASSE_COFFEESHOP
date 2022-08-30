@@ -1,0 +1,248 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Monoton&family=Noto+Serif+HK:wght@700&family=Oleo+Script:wght@700&family=Rubik+Dirt&family=Sacramento&family=Staatliches&family=Uncial+Antiqua&display=swap');
+
+#i{
+    height: 10px;
+    width: 1540px;
+    background-color: black;
+    margin-left: -11px;
+}
+
+#ii{
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: -11px;
+    height: 50px;
+    width: 1540px;
+    float: left;
+}
+#ii-i{
+    position: absolute;
+    left: 1316px;
+    top: 70px;
+    border-color: white;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+#ii-i:hover{
+    background-color: grey;
+}
+#ii-ii{
+    position: absolute;
+    top: 93px;
+    left: 1300px;
+}
+#ii img{
+    margin-left: 70px;
+    margin-top: -4px;
+    height: 160px;
+    width: 170px;
+}
+
+
+#iii{
+    margin-top: 123px;
+    display: flex;
+    justify-content: space-evenly; 
+}
+#iii a{
+    float: left;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    background-color: grey;
+}
+
+#iv{
+    background-image: url('./COFFEE_IMAGES/HD.jpg');
+    background-size: cover;
+    height: 1010px;
+    width: 1540px;
+    margin-left: -11px;
+    margin-top: 15px;
+
+}
+
+.v{
+    height: 848px;
+    width: 1523px;
+    margin-left: -11px;
+    margin-top: 15px;
+    background-color: black;
+    padding-top: 707px;
+}
+.v-i img{ 
+    width: 419px;
+    height: 244px;
+}
+#v-i-i{
+    position: absolute;
+    top: 1600px;
+    left: 558px;
+}
+#v-i-ii{
+    position: absolute;
+    top: 1289px;
+    left: 59px;
+}
+#v-i-iii{
+    position: absolute;
+    top: 1922px;
+    left: 1041px;
+}
+
+#vi{
+    width: 1553px;
+    left: -11px;
+    top: 2452px;
+    background-color: bisque;
+    position: absolute;
+    text-align: center;
+    padding-top: 289px;
+    font-family: 'Uncial Antiqua', cursive;
+    font-size: 200px;
+    height: 500px;
+}
+
+#x{  
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 300px;
+    margin-top: -1034px;
+    background-color: black;
+    color: white;
+}
+#x-i{
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    font-size: 200px;
+    margin-top: -864px;
+    background-color: black;
+    color: white;
+}
+
+#x-ii{
+    font-family: 'Oleo Script', cursive;
+    text-align: center;
+    font-size: 178px;
+    margin-top: -127px;
+    width: 1519px;
+    background-color: bisque;
+    color: black;
+}
+
+#vii{
+    background-color: black;
+    height: 21px;
+    width: 1500px;
+    position: absolute;
+    top: 2708px;
+
+}
+
+#viii{
+    height: 981px;
+    width: 1531px;
+    background-color: black;
+    position: absolute;
+    top: 3257px;
+    left: 0px;
+}
+#viii img{
+    border-radius: 19px;
+    height: 311px;
+    width: 484px;
+}
+#viii-i{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    top: -11px;
+    left: -1027px;
+    width: 1500px;
+    text-align: right;
+}
+#viii-ii{
+    margin-top: 500px;
+    margin-left: 100px;
+    position: absolute;
+    top: 57px;
+    left: 770px;
+}
+#viii-iii{
+    color: bisque;
+    position: absolute;
+    font-size: x-large;
+    height: 150px;
+    width: 800px;
+    top: 175px;
+    left: 646px;
+}
+#viii-iv{
+    color: bisque;
+    position: absolute;
+    font-size: x-large;
+    height: 150px;
+    width: 800px;
+    top: 673px;
+    left: 53px;
+}
+#viii-iv button{
+    height: 50px;
+    width: 121px;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 260px;
+    margin-top: 15px;
+    border-radius: 30px;
+}
+#viii-iv button:hover{
+    background-color: grey;
+}
+
+#ix{
+    height: 300px;
+    background-color: bisque;
+    position: absolute;
+    top: 4270px;
+    width: 1535px;
+    left: 0px;
+}
+#ix-i button{
+    height: 56px;
+    width: 57px;
+    display: flex;
+    background-size: contain;
+    border-radius: 120px;
+    border-width: 5px;
+    border-color: bisque;
+}
+#ix-i-i{
+    background-image: url("./COFFEE_IMAGES/INSTA.jpg");
+    margin-left: 100px;
+    margin-top: 70px;
+}
+#ix-i-ii{
+    background-image: url("./COFFEE_IMAGES/FACEBOOK1.jpg");
+    margin-left: 100px;
+    margin-top: 17px;
+}
+#ix-ii-i{
+    margin-left: 250PX;
+    margin-top: -163px;
+}
+#ix-ii-ii{
+    margin-left: 578PX;
+    margin-top: -39px;
+}
+#ix-iii a{
+    color: black;
+    margin-left: 254px;
+}
+#ix-iv{
+    margin-top: -59px;
+    margin-left: 571px;
+}
